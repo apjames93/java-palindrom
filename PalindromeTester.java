@@ -2,10 +2,10 @@
 // javac PalindromeTester.java && java PalindromeTester
 
 // BIG O notation of linear O(n)
-
+//testings
 public class PalindromeTester {
 
-  public boolean isPalindrome(String input) {
+  public boolean isPalindrome(String input) { 
     //remove all spaces in the input string
      input = input.replaceAll("\\s","");
      //assign int n to the length of the input
